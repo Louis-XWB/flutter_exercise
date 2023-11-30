@@ -1,4 +1,7 @@
 {
   "cmake.sourceDirectory": "/Users/weibin/job/flutter/dev/flutter_exercise/windows/flutter",
-  "cmake.configureOnOpen": false
+  "cmake.configureOnOpen": false,
+  "cSpell.words": [
+    "ARGB"
+  ]
 }
